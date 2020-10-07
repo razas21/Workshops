@@ -1,2 +1,2 @@
 ### Our Awesome Contributors 😎
- - {your name}
+ - Ali Raza
